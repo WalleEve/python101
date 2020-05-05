@@ -1,0 +1,15 @@
+ 2020-04-09 21:50:05,133 - exampleApp - INFO -Program started 
+ 2020-04-09 21:50:05,133 - exampleApp.otherMod2.add - INFO -added 10 and 25 to get 35 
+ 2020-04-09 21:50:05,133 - exampleApp - INFO -Done! 
+ 2020-04-09 23:28:03,254 - exampleApp - INFO -Program started 
+ 2020-04-09 23:28:03,254 - exampleApp.otherMod2.add - INFO -added 10 and 25 to get 35 
+ 2020-04-09 23:28:03,255 - exampleApp - INFO -Done! 
+ 2020-04-09 23:29:45,133 - exampleApp - INFO -Program started 
+ 2020-04-09 23:29:45,133 - exampleApp.otherMod2.add - INFO -added 10 and 25 to get 35 
+ 2020-04-09 23:29:45,134 - exampleApp - INFO -Done! 
+ 2020-04-09 23:30:18,165 - exampleApp - INFO -Program started 
+ 2020-04-09 23:30:18,165 - exampleApp.otherMod2.add - INFO -added 10 and 25 to get 35 
+ 2020-04-09 23:30:18,166 - exampleApp - INFO -Done! 
+ 2020-04-09 23:32:31,596 - exampleApp - INFO -Program started 
+ 2020-04-09 23:32:31,596 - exampleApp.otherMod2.add - INFO -added 10 and 25 to get 35 
+ 2020-04-09 23:32:31,596 - exampleApp - INFO -Done! 
